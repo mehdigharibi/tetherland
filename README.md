@@ -1,16 +1,14 @@
 # tetherlandclone
 
-A new Flutter project.
+In this project, I simulated the Tetraland website using Flutter, however, I did not fully implement it due to copyright issues. I only implemented a portion of the website. To obtain the prices, an API from Tetraland and a provider were used.
 
-## Getting Started
+this is Live Version of the Project :
+<a href="https://progtech.ir/flutter/web">Live Demo !</a>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ScreenShot of the App:<br>
+<img src="https://github.com/mehdigharibi/tetherland/blob/master/assets/images/demo1.png" alt="Screenshot" width="250" height="500">
+<br>
+<img src="https://github.com/mehdigharibi/tetherland/blob/master/assets/images/demo2.png" alt="Screenshot" width="250" height="500">
+<br>
+<img src="https://github.com/mehdigharibi/tetherland/blob/master/assets/images/demo3.png" alt="Screenshot" width="250" height="500">
+<br>
